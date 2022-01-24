@@ -1,0 +1,88 @@
+
+body{
+  background-color: #6c1189;
+  color:gray;
+ 
+}
+
+
+/*navber_section*/
+.bg-light {
+  background-color: #172d98!important;
+}
+
+.nav-link{
+  font-family: 'Lilita One', cursive;
+  font-size: 20px;
+}
+
+/*hero-section*/
+.heroba{
+    
+    background-image: url('../exam/img/bg.jpg'), linear-gradient(rgba(236, 4, 224, 0.5),rgba(0, 0, 0, 0.5));
+    background-blend-mode: overlay;
+    background-repeat: no-repeat;
+   background-attachment: fixed;
+   
+   
+    height: 400px;
+  background-size: cover;
+    background-position: center;
+
+}
+
+.name{
+    color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 140px;
+    font-family: 'Lilita One', cursive;
+    font-family: 'Roboto', sans-serif;
+
+   
+}
+
+.short_d{
+  color: #ffffff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 15px;
+  font-family: 'Oswald', sans-serif;
+  font-family: 'Roboto', sans-serif;
+}
+.b1 {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 23px;
+    
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #6c1189;
+ 
+}
+
+.name1{
+  color: #ffffff;
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+
+ 
+}
+
+/*mystory_section*/
+.social-icon{
+  list-style: none;
+  float: left;
+}
+
+
+.btn-secondary {
+  color: #fff;
+  background-color: #0074ec;
+  border-color: #ff01ea;
+}
